@@ -27,7 +27,6 @@ class Solution {
         int e = n - 1;
         int ans = -1;
 
-        // Array is already sorted
         if (arr[s] <= arr[e]) {
             return -1;
         }
@@ -52,7 +51,6 @@ class Solution {
 
         int n = nums.length;
 
-        // Single element
         if (n == 1) {
             if (nums[0] == target) {
                 return 0;
@@ -62,12 +60,10 @@ class Solution {
 
         int pivotIndex = pivot(nums);
 
-        // Array is already sorted
         if (pivotIndex == -1) {
             return binarysearch(nums, 0, n - 1, target);
         }
 
-        // First sorted part
         int start1 = 0;
         int end1 = pivotIndex;
 
@@ -75,7 +71,7 @@ class Solution {
             return binarysearch(nums, start1, end1, target);
         }
 
-        // Second sorted part
+   
         int start2 = pivotIndex + 1;
         int end2 = n - 1;
 
