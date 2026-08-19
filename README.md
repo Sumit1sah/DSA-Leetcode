@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
