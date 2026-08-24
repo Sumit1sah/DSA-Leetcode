@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Queue
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
 |  |
 | ------- |
