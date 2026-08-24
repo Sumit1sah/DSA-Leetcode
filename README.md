@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+| [0709-to-lower-case](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Queue
