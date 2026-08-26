@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
