@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Knapsack Problem
 |  |
