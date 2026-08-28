@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0896-monotonic-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
