@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Recursion
 |  |
 | ------- |
