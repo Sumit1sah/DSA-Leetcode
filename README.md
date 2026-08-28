@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0896-monotonic-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 ## Recursion
@@ -138,9 +140,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
