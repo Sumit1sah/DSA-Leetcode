@@ -1,7 +1,6 @@
 class Solution {
 
-    static void solve(int[] arr, int target, int index,
-                      List<List<Integer>> ans, List<Integer> output) {
+    static void solve(int[] arr, int target, int index,List<List<Integer>> ans, List<Integer> output) {
         if (target == 0) {
             ans.add(new ArrayList<>(output));
             return;
