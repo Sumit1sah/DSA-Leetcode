@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0046-permutations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0567-permutation-in-string) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0046-permutations) |
@@ -232,6 +236,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
