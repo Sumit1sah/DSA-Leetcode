@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
