@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [0835-image-overlap](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Divide and Conquer
 |  |
