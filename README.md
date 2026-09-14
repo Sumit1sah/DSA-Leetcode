@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
