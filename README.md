@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0055-jump-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String Matching
 |  |
 | ------- |
