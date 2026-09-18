@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0344-reverse-string) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
