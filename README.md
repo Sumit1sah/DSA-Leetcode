@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
