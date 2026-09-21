@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0443-string-compression) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -324,5 +327,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
