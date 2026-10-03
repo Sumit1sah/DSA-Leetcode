@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
