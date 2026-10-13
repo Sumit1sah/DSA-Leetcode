@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3024-type-of-triangle](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/0055-jump-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sumit1sah/DSA-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
 | ------- |
